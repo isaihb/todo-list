@@ -36,6 +36,19 @@
   margin-top: -600px;
 }
 
+.addItem{
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 40px;
+}
+
+.textBox{
+  margin-left: auto;
+  margin-right: auto;
+  width: 250px;
+  height: 25px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
