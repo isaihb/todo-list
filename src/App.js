@@ -1,6 +1,11 @@
 import "./App.css";
 
 function App() {
+
+
+  
+
+
   return (
     <div className="App">
       <header className="App-header">
@@ -9,6 +14,7 @@ function App() {
       
       <label className = "addItem">Add Your Item Here: </label>
       <input type = "text" className = "textBox"></input>
+      <button className = "enter">Click me to add item!</button>
       </header>
     </div>
     
